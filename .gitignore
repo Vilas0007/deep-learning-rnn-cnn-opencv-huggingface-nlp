@@ -1,0 +1,36 @@
+# Virtual environments
+**/venv/
+**/.venv/
+**/env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+temp/
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (optional)
+*.keras
+*.h5
+*.pth
+*.pt
+*.pkl
+*.joblib

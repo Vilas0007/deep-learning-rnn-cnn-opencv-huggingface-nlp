@@ -1,0 +1,5 @@
+transformers
+ipykernel
+python-dotenv
+ipykernel
+torch
